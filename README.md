@@ -6,7 +6,7 @@ Official Pytorch implementation of ["Fragment-based Multi-view Molecular Contras
 
 ## 1. Dataset Preparation
 ```
-python GEOM_dataset_preparation.py --n_mol 50000
+python GEOM_dataset_preparation.py --n_mol 50000 --data_foler ../datasets
 ```
 
 ## 2. Training
