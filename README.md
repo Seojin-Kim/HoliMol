@@ -1,4 +1,4 @@
-# Fragment-based Multi-view Molecular Contrastive Learning (ICLR 2023 ML4Materials Workshop)
+# Fragment-based Multi-view Molecular Contrastive Learning (TMLR 2024)
 
 Official Pytorch implementation of ["Fragment-based Multi-view Molecular Contrastive Learning"](https://openreview.net/forum?id=9lGwd4q8KJc) by [Seojin Kim](https://seojin-kim.github.io), [Jaehyun Nam](https://jaehyun513.github.io/), [Junsu Kim](https://junsu-kim97.github.io), [Hankook Lee](https://hankook.github.io/), [Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home), and [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html).
 
