@@ -19,10 +19,14 @@ bash submit_pretraining_holimol_dihedral2.sh
 
 ## Citation
 ```bibtex
-@inproceedings{kim2023fragment,
-  title={Fragment-based Multi-view Molecular Contrastive Learning},
-  author={Kim, Seojin and Nam, Jaehyun and Kim, Junsu and Lee, Hankook and Ahn, Sungsoo and Shin, Jinwoo},
-  booktitle={Workshop on''Machine Learning for Materials''ICLR 2023},
-  year={2023}
+@article{
+kim2024holistic,
+title={Holistic Molecular Representation Learning via Multi-view Fragmentation},
+author={Seojin Kim and Jaehyun Nam and Junsu Kim and Hankook Lee and Sungsoo Ahn and Jinwoo Shin},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=ufDh55J1ML},
+note={}
 }
 ```
